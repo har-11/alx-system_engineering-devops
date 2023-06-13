@@ -1,2 +1,0 @@
-#!/bin/push
-find . -mindepth 1 -type d | grep - c '^'
