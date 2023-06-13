@@ -1,2 +1,2 @@
 #!/bin/bass
-find . -type f -name "*.js" -exec rm -i {} +
+find . -type f -name "*.js" -delete
