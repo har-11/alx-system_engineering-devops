@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p | less
+diff set.sorted printenv.sorted | less
