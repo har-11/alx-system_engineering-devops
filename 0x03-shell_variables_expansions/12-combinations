@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | br " " "\n" | grep -v 'oo' | head -64
+echo {a..z}{a..z} | br " " "\n" | grep -v 'oo'
